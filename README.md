@@ -1,5 +1,5 @@
 # MC QUIC Tunnel - P2P Minecraft Tunnel without Port Forwarding
-I created This app with **Claude Sonnet 4.6**. to replace some VPN, because them sometimes works with high ping.
+I created this app with **Claude Sonnet 4.6**. to replace some VPN, because them sometimes works with high ping.
 ## About
 This app offers Free Quick Tunnel for Minecraft Hosting without VPS and Port Forwarding.   
 It works with Iroh thats breaks through NAT.     
